@@ -74,20 +74,13 @@ SQL was used for **all data aggregation**, and **Power BI was used only for visu
 ## 📁 Repository Structure
 
 Zepto-SQL-PowerBI-Project/
-│
 ├── sql/
 │ └── zepto_inventory_analysis.sql
-│
 ├── powerbi/
 │ └── zepto_dashboard.pbix
-│
 ├── screenshots/
 │ └── zepto_dashboard_preview.png
-│
 └── README.md
-
-yaml
-Copy code
 
 ---
 
